@@ -1,5 +1,6 @@
 import tkinter as tk
 import tkinter.ttk as ttk
+from tkinter import messagebox
 import csv
 import os
 from os.path import exists, join
@@ -14,19 +15,31 @@ class MileageApp(tk.Tk):
         self.frame = tk.Frame(self.master)
         self.frame2 = tk.Frame(self.master)
 
-        self.button1 = tk.Button(self.frame2, text = 'New Window', width = 25, command = self.new_window)
-        self.button1.pack()
-        self.button2= tk.Button(self.frame2, text='save and submit', width=25, command=self.save_csv)
-        self.button2.pack()
-        self.del_rcd = tk.Button(self.frame2, text='Delete', command=self.del_rcd)
+      #  self.button1 = tk.Button(self.frame2, text = 'New Window', width = 25, command = self.new_window)
+       # self.button1.pack()
+        self.del_rcd = tk.Button(self.frame2, text='Delete lines', command=self.del_rcd)
         self.del_rcd.pack()
+        self.button2= tk.Button(self.frame2, text='save and submit',
+                width=65,bg='#FF66FF', fg='white', command=self.save_csv)
+        self.button2.pack()
+   #     self.email_name = ttk.Entry(self.frame2, width=65,text='email address must be entered to save and submit')
+     #   self.email_name.pack()
+
+
         self.label= ttk.Label(self.frame, text ="Monthly Mileage Data" )
         self.label.pack()
+        self.email_address =ttk.Entry(self.frame, font=f)
+
+        # item_amt = Entry(f1, font=f, textvariable=amtvar)
+        # transaction_date = Entry(f1, font=f, textvariable=dopvar)
         self.treeview=self.create_treeview_widget()
         self.treeview.pack()
-
-     #   self.set_buttons()
+        #   self.set_buttons()
         self.frame.pack()
+        # #7 Entry Widgets
+        # item_name = Entry(f1, font=f)
+        # item_amt = Entry(f1, font=f, textvariable=amtvar)
+        # transaction_date = Entry(f1, font=f, textvariable=dopvar)
         self.frame2.pack()
 
 
@@ -120,9 +133,13 @@ class MileageApp(tk.Tk):
             self.treeview.delete(record)
 
     def save_csv(self):
+        self.label = ttk.Label(self.frame, text ="Your email address must be entered to save and submit" )
+        self.label.pack()
+        self.email_name = ttk.Entry(self.frame2, width=65, text='',)
+        self.email_name.pack()
+
         with open("new.csv", "w", newline='') as myfile:
             csvwriter = csv.writer(myfile, delimiter=',')
-
             for row_id in self.treeview.get_children():
                 row = self.treeview.item(row_id)['values']
                 print('save row:', row)
@@ -147,12 +164,12 @@ class MileageApp(tk.Tk):
     #     print("you clicked on", self.tree.item(item, "text"))
 
 
-    def print_selection(self,event):
-         for selection in self.treeview.selection():
-            item = self.treeview.item(selection)
-            from_postcode, from_place, to_place = item["values"][0:3]
-            text = "Selection: {}, {} <{}>"
-            print(text.format(from_postcode,from_place, to_place))
+    # def print_selection(self,event):
+    #      for selection in self.treeview.selection():
+    #         item = self.treeview.item(selection)
+    #         from_postcode, from_place, to_place = item["values"][0:3]
+    #         text = "Selection: {}, {} <{}>"
+    #         print(text.format(from_postcode,from_place, to_place))
 
     def create_treeview_widget(self, elf=None):
 
@@ -192,21 +209,24 @@ class MileageApp(tk.Tk):
 
 
 
+
         Data=self.get_data()
-        print(len(Data))
+        email='cbelle.sharpe@gmail.com'
         for x in list(range(0, len(Data))):
 
             self.treeview.insert(parent='', index='0', iid=x,
                                      values=(Data[x][0], Data[x][1], Data[x][2], Data[x][3], Data[x][4], Data[x][5]))
             x += 1
-            self.treeview.tag_bind("dbl-click", "<Double-Button-1>", self.print_selection)
-            self.treeview.bind("<<TreeviewSelect>>", self.print_selection(self))
 
 
         return self.treeview
 
     def new_window(self):
-        self.newWindow = tk.Toplevel(self.master)
+        self.win = tk.Toplevel(self)
+        self.win.label = ttk.Label(self, text="Enter your email address: ")
+        self.win.entry = ttk.Entry(self)
+        self.frame=(self.Frame(self,"bg=pink"))
+        self.frame.pack()
         self.app = MileageApp(self.newWindow)
 
 #global variables
