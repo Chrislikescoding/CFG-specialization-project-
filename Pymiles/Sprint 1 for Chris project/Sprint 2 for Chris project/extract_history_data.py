@@ -49,7 +49,7 @@ for index,diction in enumerate(data_to_csv):
         print(data_to_csv[index-1]["to place"])
 fieldnames=[{'from place':1, 'from postcode':2, 'to place':3, 'distance':4,'time'   :5,'date':6,'activity type':7}]
 keys = fieldnames[0].keys()
-with open('first.csv', 'a',newline='') as output_file:
+with open('../first.csv', 'a', newline='') as output_file:
     dict_writer = csv.DictWriter(output_file, keys)
     dict_writer.writeheader()
     dict_writer.writerows(data_to_csv)

@@ -44,7 +44,7 @@ def metres_to_miles(metres):
     calculated_miles = int(metres) * 0.000621371
     return int(calculated_miles)
 
-with open("/Users/chrissharp/PycharmProjects/CFG-specialization-project-/Pymiles/Sprint 1 for Chris project/new.csv", "r") as csv_file:
+with open("/new.csv", "r") as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     print(csv_reader)
 
