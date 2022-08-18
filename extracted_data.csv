@@ -1,0 +1,158 @@
+from place,from postcode,to place,distance,time,date,activity type
+LN4 3AW,"Lincoln LN4 3AW, UK",Total Fitness,29579,6:40:14,2019-03-01,IN_PASSENGER_VEHICLE
+Total Fitness,"Fields, Whisby Rd, Lincoln LN6 3TA, UK",Total Fitness,437,8:39:21,2019-03-01,IN_PASSENGER_VEHICLE
+Total Fitness,"3 Kingsley Rd, Lincoln LN6 3TA, UK",LN4 3AW,32753,5:11:06,2019-03-01,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",NCP Car Park Nottingham Maid Marian Way,74393,7:47:37,2019-03-02,IN_PASSENGER_VEHICLE
+NCP Car Park Nottingham Maid Marian Way,"Maid Marian Way, Nottingham NG1 6AE, UK",LN4 3AW,74853,3:30:36,2019-03-02,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",LN4 3AW,1,6:49:13,2019-03-04,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29707,6:44:17,2019-03-05,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",LN4 3AW,32063,4:46:01,2019-03-05,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29703,7:02:00,2019-03-06,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Brant Broughton Village Hall,20365,3:15:56,2019-03-07,IN_PASSENGER_VEHICLE
+Brant Broughton Village Hall,"West St, Brant Broughton, Lincoln LN5 0SF, UK",LN4 3AW,27761,1:08:43,2019-03-07,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",North Hykeham Pump Drain,29596,6:50:28,2019-03-08,IN_PASSENGER_VEHICLE
+North Hykeham Pump Drain,"North Hykeham Pump Drain, Lincoln LN6, UK",LN4 3AW,32265,6:59:22,2019-03-08,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Morrisons,97303,9:12:07,2019-03-09,IN_PASSENGER_VEHICLE
+Morrisons,"1 Oxclose Park Rd N, Halfway, Sheffield S20 8GN, UK",The Swan Holme,61400,3:11:38,2019-03-09,IN_PASSENGER_VEHICLE
+The Swan Holme,"Doddington Rd, Lincoln LN6 3RX, UK",LN4 3AW,28566,6:03:09,2019-03-09,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",LN4 3AW,54914,0:02:58,2019-03-10,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Asda Newark Supercentre,13562,1:58:03,2019-03-10,IN_PASSENGER_VEHICLE
+Asda Newark Supercentre,"Lombard St, Newark-on-Trent, Newark NG24 1XG, UK",LN4 3AW,41394,4:31:50,2019-03-10,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29579,6:51:27,2019-03-11,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Lincolnshire Co-op Metheringham Post Office,24634,7:35:07,2019-03-11,IN_PASSENGER_VEHICLE
+Lincolnshire Co-op Metheringham Post Office,"26 High St, Metheringham, Lincoln LN4 3EA, UK",LN4 3AW,7747,8:20:39,2019-03-11,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29545,6:52:26,2019-03-12,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Bransby Horses Rescue and Welfare,17918,7:35:22,2019-03-12,IN_PASSENGER_VEHICLE
+Bransby Horses Rescue and Welfare,"Bransby, Lincoln LN1 2PH, UK",LN4 3AW,35112,0:53:42,2019-03-12,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29490,6:57:18,2019-03-13,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",LN4 3AW,32216,7:36:47,2019-03-13,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29701,6:55:47,2019-03-14,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",The Beck,4820,7:34:08,2019-03-14,IN_PASSENGER_VEHICLE
+The Beck,"The Beck, Lincoln LN6, UK",Brant Broughton Village Hall,16129,8:01:17,2019-03-14,IN_PASSENGER_VEHICLE
+Brant Broughton Village Hall,"West St, Brant Broughton, Lincoln LN5 0SF, UK",LN4 3AW,27759,1:13:50,2019-03-14,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",LN4 3AW,19711,3:37:59,2019-03-17,IN_PASSENGER_VEHICLE
+LN4 3AW,"54 South Park, Lincoln LN5 8ER, UK",Lincolnshire Co-op Food Store,5593,5:01:32,2019-03-17,IN_PASSENGER_VEHICLE
+Lincolnshire Co-op Food Store,"Station Rd, Branston, Lincoln LN4 1LH, UK",LN4 3AW,14335,5:28:49,2019-03-17,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29550,6:51:39,2019-03-18,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",LN4 3AW,32214,7:58:52,2019-03-18,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29703,7:06:01,2019-03-19,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",LN4 3AW,32216,7:33:31,2019-03-19,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29579,7:02:37,2019-03-20,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Sainsbury's,3353,3:19:03,2019-03-20,IN_PASSENGER_VEHICLE
+Sainsbury's,"Tritton Rd, Lincoln LN6 7QN, UK",Integrity Software Systems Ltd,3445,3:46:53,2019-03-20,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Lincolnshire Co-op Food Store,24851,7:26:02,2019-03-20,IN_PASSENGER_VEHICLE
+Lincolnshire Co-op Food Store,"26 High St, Metheringham, Lincoln LN4 3EA, UK",LN4 3AW,7751,8:36:47,2019-03-20,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,26821,6:51:57,2019-03-21,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Integrity Software Systems Ltd,473,2:32:35,2019-03-21,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Brant Broughton Village Hall,20131,7:38:37,2019-03-21,IN_PASSENGER_VEHICLE
+Brant Broughton Village Hall,"West St, Brant Broughton, Lincoln LN5 0SF, UK",LN4 3AW,27757,1:13:13,2019-03-21,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,26506,7:04:24,2019-03-22,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Integrity Software Systems Ltd,450,4:05:39,2019-03-22,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",LN4 3AW,32214,7:31:03,2019-03-22,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Sovereign Business Integration Group plc,231435,1:05:47,2019-03-23,IN_PASSENGER_VEHICLE
+Sovereign Business Integration Group plc,"Metro Point, 1A Chalk Ln, Barnet EN4 9JQ, UK",LN4 3AW,208769,1:40:27,2019-03-23,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29730,7:04:29,2019-03-25,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Asda Lincoln North Hykeham Superstore,3979,7:41:12,2019-03-25,IN_PASSENGER_VEHICLE
+Asda Lincoln North Hykeham Superstore,"Newark Rd., North Hykeham, Lincoln LN6 8JY, UK",LN4 3AW,27256,8:29:32,2019-03-25,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,26802,7:53:42,2019-03-26,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",LN4 3AW,32214,7:56:02,2019-03-26,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Bupa Dental Care Peterborough - Werrington,75338,6:16:37,2019-03-27,IN_PASSENGER_VEHICLE
+Bupa Dental Care Peterborough - Werrington,"14 Skaters Way, Peterborough PE4 6NB, UK",SL Engineering,31391,8:58:50,2019-03-27,IN_PASSENGER_VEHICLE
+SL Engineering,"Temple Rd, Aslackby, Sleaford NG34 0HJ, UK",LN4 3AW,46182,9:45:01,2019-03-27,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Total Fitness,26700,2:37:38,2019-03-27,IN_PASSENGER_VEHICLE
+Total Fitness,"Fields, Whisby Rd, Lincoln LN6 3TA, UK",Lincolnshire Co-op Metheringham Post Office,24562,9:13:42,2019-03-27,IN_PASSENGER_VEHICLE
+Lincolnshire Co-op Metheringham Post Office,"26 High St, Metheringham, Lincoln LN4 3EA, UK",LN4 3AW,7709,9:46:20,2019-03-27,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,26800,7:07:23,2019-03-28,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Integrity Software Systems Ltd,450,3:10:23,2019-03-28,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",River Witham,20386,7:56:20,2019-03-28,IN_PASSENGER_VEHICLE
+River Witham,"River Witham, United Kingdom",Brant Broughton Village Hall,20386,8:15:59,2019-03-28,IN_PASSENGER_VEHICLE
+Brant Broughton Village Hall,"West St, Brant Broughton, Lincoln LN5 0SF, UK",LN4 3AW,27760,1:24:43,2019-03-28,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Bupa Dental Care Peterborough - Werrington,75315,6:27:28,2019-03-29,IN_PASSENGER_VEHICLE
+Bupa Dental Care Peterborough - Werrington,"14 Skaters Way, Peterborough PE4 6NB, UK",Bupa Dental Care Peterborough - Werrington,1100,8:07:14,2019-03-29,IN_PASSENGER_VEHICLE
+Bupa Dental Care Peterborough - Werrington,"14 Skaters Way, Peterborough PE4 6NB, UK",TFM Countrystore & TFM Hire,104419,8:48:45,2019-03-29,IN_PASSENGER_VEHICLE
+TFM Countrystore & TFM Hire,"Thorpe Rd, Whisby, Lincoln LN6 9BT, UK",Sainsbury's,6311,0:09:33,2019-03-29,IN_PASSENGER_VEHICLE
+Sainsbury's,"Tritton Rd, Lincoln LN6 7QN, UK",Integrity Software Systems Ltd,3437,0:54:36,2019-03-29,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",LN4 3AW,29506,7:41:02,2019-03-29,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",LN4 3AW,45998,2:02:09,2019-03-30,IN_PASSENGER_VEHICLE
+LN4 3AW,"1 Lower Cottages, Woodnook, Grantham NG33 5AB, UK",LN4 3AW,46022,3:05:52,2019-03-30,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Royal Oak,25466,5:23:08,2019-03-30,IN_PASSENGER_VEHICLE
+Royal Oak,"Tattershall Bridge, Lincoln LN4 4JH, UK",,24175,8:26:31,2019-03-30,IN_PASSENGER_VEHICLE
+from place,from postcode,to place,distance,time,date,activity type
+LN4 3AW,"Lincoln LN4 3AW, UK",Total Fitness,29579,6:40:14,2019-03-01,IN_PASSENGER_VEHICLE
+Total Fitness,"Fields, Whisby Rd, Lincoln LN6 3TA, UK",Total Fitness,437,8:39:21,2019-03-01,IN_PASSENGER_VEHICLE
+Total Fitness,"3 Kingsley Rd, Lincoln LN6 3TA, UK",LN4 3AW,32753,5:11:06,2019-03-01,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",NCP Car Park Nottingham Maid Marian Way,74393,7:47:37,2019-03-02,IN_PASSENGER_VEHICLE
+NCP Car Park Nottingham Maid Marian Way,"Maid Marian Way, Nottingham NG1 6AE, UK",LN4 3AW,74853,3:30:36,2019-03-02,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",LN4 3AW,1,6:49:13,2019-03-04,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29707,6:44:17,2019-03-05,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",LN4 3AW,32063,4:46:01,2019-03-05,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29703,7:02:00,2019-03-06,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Brant Broughton Village Hall,20365,3:15:56,2019-03-07,IN_PASSENGER_VEHICLE
+Brant Broughton Village Hall,"West St, Brant Broughton, Lincoln LN5 0SF, UK",LN4 3AW,27761,1:08:43,2019-03-07,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",North Hykeham Pump Drain,29596,6:50:28,2019-03-08,IN_PASSENGER_VEHICLE
+North Hykeham Pump Drain,"North Hykeham Pump Drain, Lincoln LN6, UK",LN4 3AW,32265,6:59:22,2019-03-08,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Morrisons,97303,9:12:07,2019-03-09,IN_PASSENGER_VEHICLE
+Morrisons,"1 Oxclose Park Rd N, Halfway, Sheffield S20 8GN, UK",The Swan Holme,61400,3:11:38,2019-03-09,IN_PASSENGER_VEHICLE
+The Swan Holme,"Doddington Rd, Lincoln LN6 3RX, UK",LN4 3AW,28566,6:03:09,2019-03-09,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",LN4 3AW,54914,0:02:58,2019-03-10,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Asda Newark Supercentre,13562,1:58:03,2019-03-10,IN_PASSENGER_VEHICLE
+Asda Newark Supercentre,"Lombard St, Newark-on-Trent, Newark NG24 1XG, UK",LN4 3AW,41394,4:31:50,2019-03-10,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29579,6:51:27,2019-03-11,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Lincolnshire Co-op Metheringham Post Office,24634,7:35:07,2019-03-11,IN_PASSENGER_VEHICLE
+Lincolnshire Co-op Metheringham Post Office,"26 High St, Metheringham, Lincoln LN4 3EA, UK",LN4 3AW,7747,8:20:39,2019-03-11,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29545,6:52:26,2019-03-12,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Bransby Horses Rescue and Welfare,17918,7:35:22,2019-03-12,IN_PASSENGER_VEHICLE
+Bransby Horses Rescue and Welfare,"Bransby, Lincoln LN1 2PH, UK",LN4 3AW,35112,0:53:42,2019-03-12,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29490,6:57:18,2019-03-13,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",LN4 3AW,32216,7:36:47,2019-03-13,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29701,6:55:47,2019-03-14,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",The Beck,4820,7:34:08,2019-03-14,IN_PASSENGER_VEHICLE
+The Beck,"The Beck, Lincoln LN6, UK",Brant Broughton Village Hall,16129,8:01:17,2019-03-14,IN_PASSENGER_VEHICLE
+Brant Broughton Village Hall,"West St, Brant Broughton, Lincoln LN5 0SF, UK",LN4 3AW,27759,1:13:50,2019-03-14,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",LN4 3AW,19711,3:37:59,2019-03-17,IN_PASSENGER_VEHICLE
+LN4 3AW,"54 South Park, Lincoln LN5 8ER, UK",Lincolnshire Co-op Food Store,5593,5:01:32,2019-03-17,IN_PASSENGER_VEHICLE
+Lincolnshire Co-op Food Store,"Station Rd, Branston, Lincoln LN4 1LH, UK",LN4 3AW,14335,5:28:49,2019-03-17,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29550,6:51:39,2019-03-18,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",LN4 3AW,32214,7:58:52,2019-03-18,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29703,7:06:01,2019-03-19,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",LN4 3AW,32216,7:33:31,2019-03-19,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29579,7:02:37,2019-03-20,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Sainsbury's,3353,3:19:03,2019-03-20,IN_PASSENGER_VEHICLE
+Sainsbury's,"Tritton Rd, Lincoln LN6 7QN, UK",Integrity Software Systems Ltd,3445,3:46:53,2019-03-20,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Lincolnshire Co-op Food Store,24851,7:26:02,2019-03-20,IN_PASSENGER_VEHICLE
+Lincolnshire Co-op Food Store,"26 High St, Metheringham, Lincoln LN4 3EA, UK",LN4 3AW,7751,8:36:47,2019-03-20,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,26821,6:51:57,2019-03-21,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Integrity Software Systems Ltd,473,2:32:35,2019-03-21,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Brant Broughton Village Hall,20131,7:38:37,2019-03-21,IN_PASSENGER_VEHICLE
+Brant Broughton Village Hall,"West St, Brant Broughton, Lincoln LN5 0SF, UK",LN4 3AW,27757,1:13:13,2019-03-21,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,26506,7:04:24,2019-03-22,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Integrity Software Systems Ltd,450,4:05:39,2019-03-22,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",LN4 3AW,32214,7:31:03,2019-03-22,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Sovereign Business Integration Group plc,231435,1:05:47,2019-03-23,IN_PASSENGER_VEHICLE
+Sovereign Business Integration Group plc,"Metro Point, 1A Chalk Ln, Barnet EN4 9JQ, UK",LN4 3AW,208769,1:40:27,2019-03-23,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,29730,7:04:29,2019-03-25,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Asda Lincoln North Hykeham Superstore,3979,7:41:12,2019-03-25,IN_PASSENGER_VEHICLE
+Asda Lincoln North Hykeham Superstore,"Newark Rd., North Hykeham, Lincoln LN6 8JY, UK",LN4 3AW,27256,8:29:32,2019-03-25,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,26802,7:53:42,2019-03-26,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",LN4 3AW,32214,7:56:02,2019-03-26,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Bupa Dental Care Peterborough - Werrington,75338,6:16:37,2019-03-27,IN_PASSENGER_VEHICLE
+Bupa Dental Care Peterborough - Werrington,"14 Skaters Way, Peterborough PE4 6NB, UK",SL Engineering,31391,8:58:50,2019-03-27,IN_PASSENGER_VEHICLE
+SL Engineering,"Temple Rd, Aslackby, Sleaford NG34 0HJ, UK",LN4 3AW,46182,9:45:01,2019-03-27,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Total Fitness,26700,2:37:38,2019-03-27,IN_PASSENGER_VEHICLE
+Total Fitness,"Fields, Whisby Rd, Lincoln LN6 3TA, UK",Lincolnshire Co-op Metheringham Post Office,24562,9:13:42,2019-03-27,IN_PASSENGER_VEHICLE
+Lincolnshire Co-op Metheringham Post Office,"26 High St, Metheringham, Lincoln LN4 3EA, UK",LN4 3AW,7709,9:46:20,2019-03-27,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Integrity Software Systems Ltd,26800,7:07:23,2019-03-28,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",Integrity Software Systems Ltd,450,3:10:23,2019-03-28,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",River Witham,20386,7:56:20,2019-03-28,IN_PASSENGER_VEHICLE
+River Witham,"River Witham, United Kingdom",Brant Broughton Village Hall,20386,8:15:59,2019-03-28,IN_PASSENGER_VEHICLE
+Brant Broughton Village Hall,"West St, Brant Broughton, Lincoln LN5 0SF, UK",LN4 3AW,27760,1:24:43,2019-03-28,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Bupa Dental Care Peterborough - Werrington,75315,6:27:28,2019-03-29,IN_PASSENGER_VEHICLE
+Bupa Dental Care Peterborough - Werrington,"14 Skaters Way, Peterborough PE4 6NB, UK",Bupa Dental Care Peterborough - Werrington,1100,8:07:14,2019-03-29,IN_PASSENGER_VEHICLE
+Bupa Dental Care Peterborough - Werrington,"14 Skaters Way, Peterborough PE4 6NB, UK",TFM Countrystore & TFM Hire,104419,8:48:45,2019-03-29,IN_PASSENGER_VEHICLE
+TFM Countrystore & TFM Hire,"Thorpe Rd, Whisby, Lincoln LN6 9BT, UK",Sainsbury's,6311,0:09:33,2019-03-29,IN_PASSENGER_VEHICLE
+Sainsbury's,"Tritton Rd, Lincoln LN6 7QN, UK",Integrity Software Systems Ltd,3437,0:54:36,2019-03-29,IN_PASSENGER_VEHICLE
+Integrity Software Systems Ltd,"Office 13 Ground Floor, Langton House, Lindum Business Park, Station Rd, North Hykeham, Lincoln LN6 3QX, UK",LN4 3AW,29506,7:41:02,2019-03-29,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",LN4 3AW,45998,2:02:09,2019-03-30,IN_PASSENGER_VEHICLE
+LN4 3AW,"1 Lower Cottages, Woodnook, Grantham NG33 5AB, UK",LN4 3AW,46022,3:05:52,2019-03-30,IN_PASSENGER_VEHICLE
+LN4 3AW,"Lincoln LN4 3AW, UK",Royal Oak,25466,5:23:08,2019-03-30,IN_PASSENGER_VEHICLE
+Royal Oak,"Tattershall Bridge, Lincoln LN4 4JH, UK",,24175,8:26:31,2019-03-30,IN_PASSENGER_VEHICLE
